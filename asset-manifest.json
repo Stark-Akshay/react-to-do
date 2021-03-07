@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Stark-Akshay.github.io/react-to-do/static/css/main.1b5e3534.chunk.css",
+    "main.js": "/Stark-Akshay.github.io/react-to-do/static/js/main.8829fe9b.chunk.js",
+    "main.js.map": "/Stark-Akshay.github.io/react-to-do/static/js/main.8829fe9b.chunk.js.map",
+    "runtime-main.js": "/Stark-Akshay.github.io/react-to-do/static/js/runtime-main.87afebbf.js",
+    "runtime-main.js.map": "/Stark-Akshay.github.io/react-to-do/static/js/runtime-main.87afebbf.js.map",
+    "static/js/2.2cb3673e.chunk.js": "/Stark-Akshay.github.io/react-to-do/static/js/2.2cb3673e.chunk.js",
+    "static/js/2.2cb3673e.chunk.js.map": "/Stark-Akshay.github.io/react-to-do/static/js/2.2cb3673e.chunk.js.map",
+    "static/js/3.83e5e07e.chunk.js": "/Stark-Akshay.github.io/react-to-do/static/js/3.83e5e07e.chunk.js",
+    "static/js/3.83e5e07e.chunk.js.map": "/Stark-Akshay.github.io/react-to-do/static/js/3.83e5e07e.chunk.js.map",
+    "index.html": "/Stark-Akshay.github.io/react-to-do/index.html",
+    "static/css/main.1b5e3534.chunk.css.map": "/Stark-Akshay.github.io/react-to-do/static/css/main.1b5e3534.chunk.css.map",
+    "static/js/2.2cb3673e.chunk.js.LICENSE.txt": "/Stark-Akshay.github.io/react-to-do/static/js/2.2cb3673e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Stark-Akshay.github.io/react-to-do/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87afebbf.js",
+    "static/js/2.2cb3673e.chunk.js",
+    "static/css/main.1b5e3534.chunk.css",
+    "static/js/main.8829fe9b.chunk.js"
+  ]
+}
